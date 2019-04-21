@@ -1,0 +1,6 @@
+name: BeaconFlight
+version: ${BlueLapiz-Version}
+main: app.sagen.beaconflight.BeaconFlightPlugin
+author: Sagen
+website: bluelapiz.net
+api-version: 1.13
